@@ -8,9 +8,13 @@ The event is organised at ENGEO Analytics, Bengaluru.
 
 Agenda:
 10:00 - 10:15 - Introduction to the event and host organisation
+
 10:15 - 11:00 - Adithya Kothandhapani, Leaveraging Edge Computing for Earth Observation
+
 11:00 - 11:15 - Introduction of audience
+
 11:15 - 11:45 - Krishna G Namboothiri, Data Science for Geospatial Data
+
 11:45 - 12:15 - Rakshit Bhatt, Power of Data Fusion - Optical + SAR
 
 Location:
