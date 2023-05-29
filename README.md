@@ -21,7 +21,7 @@ Location:
 327, 7th 'A' main, 4th block, Koramangala, Bengaluru - 560034
 
 ## Youtube Recording of the meetup
-
+TO BE UPDATED
 ## Slides of speaker
 [Krishna G]()
 
@@ -37,6 +37,6 @@ https://www.meetup.com/lets-talk-spatial/events/293293600/
 ## Event Archive and updates
 https://letstalkspatial.in/talks/
 
-| ![WhatsApp Image 2023-05-29 at 08 07 39](https://github.com/letstalkspatial/2023-may/assets/119618422/c20a7daf-3f32-478c-bb8a-2e9dbb587d10)| ![LTS_8](https://github.com/letstalkspatial/2023-may/assets/119618422/9fe135fe-52e0-416a-bb66-98c7a652a5e6)|
+| ![0](https://github.com/letstalkspatial/2023-may/assets/119618422/7402069e-3741-4b86-b1f2-c1111db1fb11) | ![lts](https://github.com/letstalkspatial/2023-may/assets/119618422/83c6f545-da96-4cec-8ced-ba250d39de27) |
 |-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 
