@@ -23,7 +23,6 @@ Location:
 ## Youtube Recording of the meetup
 TO BE UPDATED
 ## Slides of speaker
-[Krishna G]()
 
 [Aditya Kothandhapani](https://github.com/letstalkspatial/2023-may/files/11587751/20230527_SkyServe%40LetsTalkSpatial-8_v3.Abridged.pdf)
 
